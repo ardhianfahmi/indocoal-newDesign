@@ -1,26 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
 
+
 <head>
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <meta name="description" content="" />
-        <meta name="author" content="" />
-        <title>Creative - Start Bootstrap Theme</title>
-        <!-- Favicon-->
-        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
-        <!-- Bootstrap Icons-->
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
-        <!-- Google fonts-->
-        <link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700" rel="stylesheet" />
-        <link href="https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic" rel="stylesheet" type="text/css" />
-        <!-- SimpleLightbox plugin CSS-->
-        <link href="https://cdnjs.cloudflare.com/ajax/libs/SimpleLightbox/2.1.0/simpleLightbox.min.css" rel="stylesheet" />
-        <!-- Core theme CSS (includes Bootstrap)-->
-        <link href="{{ ('/css/app.css') }}" rel="stylesheet">
-        <!-- <link href="{{ ('/css/bootstrap.css') }}" rel="stylesheet">
-        <link href="{{ ('/css/bootstrap.min.css') }}" rel="stylesheet"> -->
-        <!-- <script src="{{ asset('/js/template.js') }}"></script>
-        <script type="text/javascript" src="{{ URL::asset('/js/app.js')}}"></script>
-        <script type="text/javascript" src="{{ asset('/js/template.js')}}"></script> -->
-</head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Day Bootstrap Template - Index</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="{{ ('/img/favicon.png') }}" rel="icon">
+  <link href="{{ ('/img/apple-touch-icon.png') }}" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="{{ ('/vendor/animate.css/animate.min.css') }}" rel="stylesheet">
+  <link href="{{ ('/vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
+  <link href="{{ ('/vendor/bootstrap-icons/bootstrap-icons.css') }}" rel="stylesheet">
+  <link href="{{ ('/vendor/boxicons/css/boxicons.min.css') }}" rel="stylesheet">
+  <link href="{{ ('/vendor/glightbox/css/glightbox.min.css') }}" rel="stylesheet">
+  <link href="{{ ('/vendor/remixicon/remixicon.css') }}" rel="stylesheet">
+  <link href="{{ ('/vendor/swiper/swiper-bundle.min.css') }}" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="{{ ('/css/style.css') }}" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: Day - v4.7.0
+  * Template URL: https://bootstrapmade.com/day-multipurpose-html-template-for-free/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
